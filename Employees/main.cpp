@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Dylan Hutson
+ * @date 2024-12-03
+ * @brief driver for running this business
+ * @description
+ * 
+ */
+
 
 #include <iostream>
 #include "Employee.h"
@@ -6,6 +15,16 @@
 
 using namespace std;
 
+
+/**
+ * tests employee based on the reference passed in
+ *
+ * @param Employee & e reference to the Employee to check
+ * @pre needs an employee
+ * @return void prints out data and checks their data
+ * @post none
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {
