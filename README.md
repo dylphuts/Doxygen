@@ -1,1 +1,1 @@
-Doxygen README
+While working throught the Doxygen assignment it was impressive to see a website be generated with the code as its source material. The website made it easy to uderstand what I was looking in regards to classes and even had images made to help show what is going on. I can see the usefulness of this tool and I am curious to see how often its used.
